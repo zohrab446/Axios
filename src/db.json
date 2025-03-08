@@ -1,9 +1,10 @@
 {
-    "users":[
-        {
-            "id" : 1 ,
-            "username" : "Zohrab446",
-            "password" : "020304zohu"
-        }
-    ]
+  "users": [
+    {
+      "id": "1",
+      "username": "enes12",
+      "password": "xx",
+      "postId": "7"
+    }
+  ]
 }
